@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/IDE测试/CLion测试/clion_test/main.cpp
+iostream
+-
+
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/IDE测试/CLion测试/clion_test/害死人.cpp
+

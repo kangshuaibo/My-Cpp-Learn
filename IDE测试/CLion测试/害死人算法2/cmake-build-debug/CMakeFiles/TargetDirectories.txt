@@ -1,0 +1,3 @@
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/IDE测试/CLion测试/害死人算法2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/IDE测试/CLion测试/害死人算法2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/IDE测试/CLion测试/害死人算法2/cmake-build-debug/CMakeFiles/2.dir

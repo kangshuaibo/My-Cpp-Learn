@@ -1,3 +1,0 @@
-/Users/kangshuaibo/Desktop/My-Cpp-Learn/project/Myproject1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/kangshuaibo/Desktop/My-Cpp-Learn/project/Myproject1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/kangshuaibo/Desktop/My-Cpp-Learn/project/Myproject1/cmake-build-debug/CMakeFiles/Myproject1.dir

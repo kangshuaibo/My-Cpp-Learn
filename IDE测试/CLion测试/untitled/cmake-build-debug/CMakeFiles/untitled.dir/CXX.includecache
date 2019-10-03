@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/project/untitled/library.cpp
+library.h
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/project/untitled/library.h
+iostream
+-
+
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/project/untitled/library.h
+
