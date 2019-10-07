@@ -21,7 +21,7 @@ int main()
     {//遍历数组
       if(a[k] == x)
       {
-        printf("数组下标为：\n"2);
+        printf("数组下标为：\n");
         printf("%d\n",k );  //输出对应的下标
         break;  //退出查找
       }
