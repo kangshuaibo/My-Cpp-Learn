@@ -1,0 +1,3 @@
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/IDE测试/CLion测试/way/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/IDE测试/CLion测试/way/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/IDE测试/CLion测试/way/cmake-build-debug/CMakeFiles/way.dir

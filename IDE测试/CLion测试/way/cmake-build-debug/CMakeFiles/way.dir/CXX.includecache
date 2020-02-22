@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/IDE测试/CLion测试/way/main.cpp
+stdio.h
+/Users/kangshuaibo/Desktop/My-Cpp-Learn/IDE测试/CLion测试/way/stdio.h
+
