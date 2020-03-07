@@ -6,10 +6,13 @@
 //  Copyright © 2019 张耘博. All rights reserved.
 //
 
-#include <stdio.h>
-
+#include<iostream>
+using namespace std;
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!\n");
+    int n;
+    cin>>n;
+    cout<< "我就是ok" << n <<endl;
+    
     return 0;
 }
